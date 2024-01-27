@@ -1,0 +1,15 @@
+{
+    "artists": [
+      { "id": 1, "name": "Maneskin", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab6761610000517446d0db8a86fda630ec12401f" },
+      { "id": 2, "name": "Michael Jackson", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab676161000051740e08ea2c4d6789fbf5cbe0aa" },
+      { "id": 3, "name": "Nicki Minaj", "genre": "Rap", "urlImg": "https://i.scdn.co/image/ab6761610000517407a50f0a9a8f11e5a1102cbd" },
+      { "id": 4, "name": "Tim Bernardes", "genre": "Indie", "urlImg": "https://i.scdn.co/image/ab67616100005174d91deca571610be109e3f3db" },
+      { "id": 5, "name": "Taylor Swift", "genre": "Pop", "urlImg": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4" },
+      { "id": 6, "name": "André Prando", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174de354733af4a11f98cc1353a" },
+      { "id": 7, "name": "Caetano Veloso", "genre": "MPB", "urlImg": "https://i.scdn.co/image/ab67616100005174e98de50f36cf1aa4bf047757" },
+      { "id": 8, "name": "Pink Floyd", "genre": "Rock", "urlImg": "https://i.scdn.co/image/f0a39a8a196a87a7236bdcf8a8708f6d5d3547cc" },
+      { "id": 9, "name": "AC/DC", "genre": "Rock", "urlImg": "https://i.scdn.co/image/ab67616100005174c4c77549095c86acb4e77b37" },
+      { "id": 10, "name": "Ethel Cain", "genre": "Alternative", "urlImg": "https://i.scdn.co/image/ab67616100005174a29536e5f29bc12568ca5516" }
+    ]
+  }
+  
